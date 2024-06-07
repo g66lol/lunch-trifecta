@@ -18,7 +18,7 @@ fetch('foods.json')
       const searchText = searchInput.value.toLowerCase();
       const category = categoryFilter.value;
       const filteredItems = data.foods.filter(item => {
-        return (item.name.toLowerCase().includes(searchText) && (category === 'all' || item.category === category));
+        return (item.name.toLowerCase().includes(searchText) && (category === 'soup' || item.category === category));
       });
       displayResults(filteredItems);
     }
