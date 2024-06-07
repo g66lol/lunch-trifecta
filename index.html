@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+        <meta charset="UTF-8">
+        <meta name="viewport" content="width=device-width, initial-scale=1.0">
+        <title>Lunch Special Trifecta</title>
+    </head>
+    <body>
+        <h1>Lunch Special Trifecta</h1>
+        <p>All foods fall into one of three categories:</p>
+        <ul>
+            <li>Soup</li>
+            <li>Salad</li>
+            <li>Sandwich</li>
+        </ul>
+        <p>Or, two pseudo-categories:</p>
+        <ul>
+            <li>Ingredient</li>
+            <li>Condiment</li>
+        </ul>
+        <p>Some foods could arguably fit in two categories, so the best one has been chosen here.</p>
+        <p>For example, all open-face sandwiches could, arguably, be a salad.</p>
+        <input type="text" id="searchInput" placeholder="Search for a food">
+        <select id="categoryFilter">
+            <option value="all">All</option>
+            <option value="soup">Soup</option>
+            <option value="salad">Salad</option>
+            <option value="sandwich">Sandwich</option>
+        </select>
+        <div id="results"></div>
+        <script src="script.js"></script>
+    </body>
+</html>

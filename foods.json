@@ -1,0 +1,61 @@
+{
+    "foods": [
+        {
+            "name": "Taco",
+            "category": "sandwich"
+        },
+        {
+            "name": "Hot Dog",
+            "category": "sandwich"
+        },
+        {
+            "name": "Tomato Soup",
+            "category": "soup"
+        },
+        {
+            "name": "Caesar Salad",
+            "category": "salad"
+        },
+        {
+            "name": "Turkey Sandwich",
+            "category": "sandwich"
+        },
+        {
+            "name": "Minestrone Soup",
+            "category": "soup"
+        },
+        {
+            "name": "Greek Salad",
+            "category": "salad"
+        },
+        {
+            "name": "BLT Sandwich",
+            "category": "sandwich"
+        },
+        {
+            "name": "Tomato Bisque",
+            "category": "soup"
+        },
+        {
+            "name": "Ice Cream",
+            "category": "salad"
+        },
+        {
+            "name": "Pizza",
+            "category": "sandwich"
+        },
+        {
+            "name": "Nachos",
+            "category": "salad"
+        },
+        {
+            "name": "Salsa",
+            "category": "condiment"
+        },
+        {
+            "name": "Steak",
+            "category": "ingredient"
+        }
+    ]
+  }
+  
