@@ -55,6 +55,26 @@
         {
             "name": "Steak",
             "category": "ingredient"
+        },
+        {
+            "name": "Corned Beef and Cabbage",
+            "category": "salad"
+        },
+        {
+            "name": "Apple",
+            "category": "ingredient"
+        },
+        {
+            "name": "Orange",
+            "category": "ingredient"
+        },
+        {
+            "name": "Salt",
+            "category": "condiment"
+        },
+        {
+            "name": "Pepper",
+            "category": "condiment"
         }
     ]
   }
